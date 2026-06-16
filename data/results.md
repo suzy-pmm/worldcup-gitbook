@@ -41,7 +41,7 @@ The Agent picks it up within minutes and opens a change request.
 
 | Match | Home | Score | Away | Status |
 |-------|------|-------|------|--------|
-| 1 | USA | TBD | Jamaica | TBD |
+| 1 | USA | FT 2-0 | Jamaica | FT |
 | 2 | Panama | TBD | Bolivia | TBD |
 | 3 | USA | TBD | Panama | TBD |
 | 4 | Jamaica | TBD | Bolivia | TBD |
